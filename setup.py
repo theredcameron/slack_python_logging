@@ -3,15 +3,15 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="slack_python_logging",
+    name="slack_python_logging_cameron_test",
     description="Module for logging to a Slack channel with webhooks",
-    version="3.0.0",
+    version="3.0.1-rc.2",
     python_requires='>=3.6',
     packages=find_packages(),
     # metadata
-    author="jenbanim",
-    author_email="jenbanim@gmail.com",
-    url="https://github.com/neoliberal/slack_python_logging",
+    author="theredcameron",
+    author_email="redcamerontest@gmail.com",
+    url="https://github.com/theredcameron/slack_python_logging",
     license="MIT",
     classifiers=[
         "Development Status :: 4 - Beta",
